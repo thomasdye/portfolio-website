@@ -1,14 +1,14 @@
 
 [
    {
-      "mealTime": "Breakfast, Lunch, Dinner",
-      "totalTime": "Total Time Here",
-      "prepTime": "Prep Time Here",
-      "difficulty": "Difficulty Here",
-      "servings": "Servings Here",
-      "cookTime": "Cook Time Here",
-      "ingredients": "Ingredients 1",
-      "instructions": "Instructions 1",
+      "mealTime": "Dinner",
+      "totalTime": "1 hr 5 min",
+      "prepTime": "15 min",
+      "difficulty": "Easy",
+      "servings": "6",
+      "cookTime": "50 min",
+      "ingredients": "8 ears corn, husked\n2 red bell peppers, diced\n2 jalapeno peppers, diced\n1 cup heavy cream\nKosher salt and freshly ground pepper\n1 stick salted butter, cut into pieces",
+      "instructions": "1. Preheat the oven to 350 degrees F. Slice the corn kernels from the ear in a large, deep bowl with a sharp knife. Turn the knife to the dull side and scrape the cob all the way down to remove all the bits of kernel and the creamy milk.\n\n2. Add the red bell peppers, jalapenos, heavy cream, 2 teaspoons salt, a generous amount of pepper and the butter and mix well. Pour into a 9-by-13-inch baking dish. Bake until hot and bubbly, 45 to 55 minutes.",
       "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    },
    {
