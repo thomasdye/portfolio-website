@@ -34,15 +34,15 @@
       "name": "Beer BBQ Chicken"
    },
    {
-      "mealTime": "Breakfast, Lunch, Dinner",
-      "totalTime": "Total Time Here",
-      "prepTime": "Prep Time Here",
-      "difficulty": "Difficulty Here",
-      "servings": "Servings Here",
-      "cookTime": "Cook Time Here",
-      "ingredients": "Ingredients 1",
-      "instructions": "Instructions 1",
-      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
+      "mealTime": "Appetizer",
+      "totalTime": "5 min",
+      "prepTime": "5 min",
+      "difficulty": "Easy",
+      "servings": "4",
+      "cookTime": "N/A",
+      "ingredients": "5 medium plum tomatoes, halved lengthwise, seeded, and thinly sliced, 1/4 red onion, peeled, halved lengthwise, and thinly sliced, 1 Kirby cucumber, halved lengthwise and thinly sliced, A generous drizzle of extra-virgin olive oil, about 2 tablespoons, 2 splashes red wine vinegar, Coarse salt and black pepper",
+      "instructions": "1. Dress the tomatoes, onions, and cucumber with olive oil, red wine vinegar, salt, and pepper.\n\n2. Let stand while you prepare dinner, about 20 minutes. Re-toss and serve salad with crusty bread for mopping up juices and oil.",
+      "name": "Tomato, Onion, and Cucumber Salad"
    },
    {
       "mealTime": "Breakfast, Lunch, Dinner",
