@@ -12,15 +12,15 @@
       "name": "Baked Creamed Corn"
    },
    {
-      "mealTime": "Breakfast, Lunch, Dinner",
-      "totalTime": "Total Time Here",
-      "prepTime": "Prep Time Here",
-      "difficulty": "Difficulty Here",
-      "servings": "Servings Here",
-      "cookTime": "Cook Time Here",
-      "ingredients": "Ingredients 1",
-      "instructions": "Instructions 1",
-      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
+      "mealTime": "Dinner",
+      "totalTime": "20 min",
+      "prepTime": "5 min",
+      "difficulty": "Easy",
+      "servings": "4",
+      "cookTime": "15 min",
+      "ingredients": "12 ounce salmon fillet, cut into 4 pieces\nCoarse-grained salt\nFreshly ground black pepper\nToasted Almond Parsley Salsa, for serving\nBaked squash, for serving, optional",
+      "instructions": "1. Preheat the oven to 450 degrees F.\n\n2. Season salmon with salt and pepper. Place salmon, skin side down, on a non-stick baking sheet or in a non-stick pan with an oven-proof handle. Bake until salmon is cooked through, about 12 to 15 minutes. Serve with the Toasted Almond Parsley Salad and squash, if desired.",
+      "name": "Oven Baked Salmon"
    },
    {
       "mealTime": "Breakfast, Lunch, Dinner",
