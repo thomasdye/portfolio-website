@@ -1,33 +1,63 @@
 
 [
    {
+      "totalTime": "Total Time Here",
+      "prepTime": "Prep Time Here",
+      "difficulty": "Difficulty Here",
+      "servings": "Servings Here",
+      "cookTime": "Cook Time Here",
       "ingredients": "Ingredients 1",
       "instructions": "Instructions 1",
-      "name": "Recipe 1"
+      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    },
    {
-      "ingredients": "Ingredients 2",
-      "instructions": "Instructions 2",
-      "name": "Recipe 2"
+      "totalTime": "Total Time Here",
+      "prepTime": "Prep Time Here",
+      "difficulty": "Difficulty Here",
+      "servings": "Servings Here",
+      "cookTime": "Cook Time Here",
+      "ingredients": "Ingredients 1",
+      "instructions": "Instructions 1",
+      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    },
    {
-      "ingredients": "Ingredients 3",
-      "instructions": "Instructions 3",
-      "name": "Recipe 3"
+      "totalTime": "Total Time Here",
+      "prepTime": "Prep Time Here",
+      "difficulty": "Difficulty Here",
+      "servings": "Servings Here",
+      "cookTime": "Cook Time Here",
+      "ingredients": "Ingredients 1",
+      "instructions": "Instructions 1",
+      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    },
    {
-      "ingredients": "Ingredients 4",
-      "instructions": "Instructions 4",
-      "name": "Recipe 4"
+      "totalTime": "Total Time Here",
+      "prepTime": "Prep Time Here",
+      "difficulty": "Difficulty Here",
+      "servings": "Servings Here",
+      "cookTime": "Cook Time Here",
+      "ingredients": "Ingredients 1",
+      "instructions": "Instructions 1",
+      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    },
    {
-      "ingredients": "Ingredients 5",
-      "instructions": "Instructions 5",
-      "name": "Recipe 5"
+      "totalTime": "Total Time Here",
+      "prepTime": "Prep Time Here",
+      "difficulty": "Difficulty Here",
+      "servings": "Servings Here",
+      "cookTime": "Cook Time Here",
+      "ingredients": "Ingredients 1",
+      "instructions": "Instructions 1",
+      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    },
    {
-      "ingredients": "Ingredients 6",
-      "instructions": "Instructions 6",
-      "name": "Recipe 6"
+      "totalTime": "Total Time Here",
+      "prepTime": "Prep Time Here",
+      "difficulty": "Difficulty Here",
+      "servings": "Servings Here",
+      "cookTime": "Cook Time Here",
+      "ingredients": "Ingredients 1",
+      "instructions": "Instructions 1",
+      "name": "Baked Creamed Corn with Red Bell Pepper and Jalapeno"
    }
 ]
