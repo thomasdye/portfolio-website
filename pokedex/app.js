@@ -108,6 +108,10 @@ const fetchPokeData = id => {
       shinyBack = sprites['back_shiny'] || '';
       pokeFrontImage.src = defaultFront;
       pokeBackImage.src = defaultBack;
+      document.body.style.backgroundRepeat = "repeat-y-x";
+      document.body.className = ""
+      document.body.className += `${dataFirstType.type.name}`;
+      document.body.style.backgroundImage = `url(https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/${id}.png`;
 
       // click b button
       const handleBClick = () => {
